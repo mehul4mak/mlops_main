@@ -1,4 +1,4 @@
-HSW
+MLOPS_MAIN
 ==============================
 
 Testing of common data science project workflow
